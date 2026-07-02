@@ -163,8 +163,3 @@ def run_agent(question:str)-> Finding:
         tools_used=[],
         confidence="low",
     )
-
-
-# result = run_agent("hi")
-# print(type(result))
-# print(result)
